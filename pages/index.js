@@ -1,5 +1,5 @@
 function Home( ){
-    return <h1>Meu teste editando essa página para aprender de verdade sobre GitHub</h1>
+    return <h1>Agora testando deploy com Vercel</h1>
 }
 
 export default Home;
